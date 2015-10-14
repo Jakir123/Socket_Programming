@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Socket_Programming</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="clients">Start As A Client</string>
+    <string name="server">Start As A Server</string>
+    <string name="title_activity_clientsss">Client Activity</string>
+    <string name="title_activity_server">Server Activity</string>
+    <string name="btnConnect">Connect</string>
+    <string name="serverStatus">Server Status</string>
+</resources>
